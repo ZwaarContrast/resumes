@@ -37,6 +37,12 @@ In cooperation with TamTam
 Url: [http://longenenleven.nl/](http://longenenleven.nl/)  
 Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Wordpress_
 
+**Kennisnet**, various projects  
+Url: [http://labs.edurep.nl/](Edurep Labs)  
+Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Google Spreadsheets  
+Url:[https://ict-puzzel.kennisnet.nl/](ICT puzzel)  
+Techniques: Canvas, Javascript, PIXI
+
 ### 2015
 
 **Dolfinarium**, responsive Wordpress website  
@@ -50,10 +56,16 @@ Project management, front-end and back-end development
 Url: [http://canonvankatwijk.nl/](http://canonvankatwijk.nl/)   
 Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Wordpress_
 
+**Kennisnet**, various projects  
+Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Angular_
+
 ### 2014  
 **API Webrichtlijnen**, API and API editor  
 Technical design, development  
 Techniques: _MongoDB, Express, Node, Javascript_
+
+**Kennisnet**, various projects  
+Techniques: _HTML, CSS, Javascript_
 
 ## Relevant Work experience
 
