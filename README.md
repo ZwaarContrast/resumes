@@ -26,6 +26,11 @@ In cooperation with Level Level
 Url: [http://nl.nepworldwide.nl/](http://nl.nepworldwide.nl/)  
 Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Wordpress_
 
+**Katwijk in Oorlog**, responsive Wordpress website  
+Project management, front-end and back-end development   
+Url: [http://katwijkinoorlog.nl/](http://katwijkinoorlog.nl/)  
+Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Wordpress_
+
 **Customer Revolution**, responsive Wordpress website  
 Front-end and back-end development   
 Url: [http://customerrevolution.nl/](http://customerrevolution.nl/)  
@@ -39,7 +44,7 @@ Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Wordpress_
 
 **Kennisnet**, various projects  
 Url: [http://labs.edurep.nl/](Edurep Labs)  
-Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Google Spreadsheets  
+Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Google Spreadsheets_  
 Url:[https://ict-puzzel.kennisnet.nl/](ICT puzzel)  
 Techniques: Canvas, Javascript, PIXI
 
@@ -88,7 +93,14 @@ Techniques: _HTML, CSS, Javascript_
 
 ### Danny
 **Rotterdam University of Applied Sciences**, HBO Mediatechnologie, _2009 – 2014_  
-**Wageningen University**, Bachelor, Bodem, water, atmosfeer _2008 - 2009_ (not finished)  
+**Wageningen University**, Bachelor, Bodem water atmosfeer, _2008 - 2009_ (not finished)  
 **Andreas College**, VWO, Natuur en Gezondheid _2001 – 2008_
 
+## Relevant Courses  
+### Roy
+**ES6 Javascript: The Complete Developer's Guide**, [udemy](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview), _2016_  
+**Modern React with Redux**, [udemy](https://www.udemy.com/react-redux/learn/v4/overview), _2016_  
+**Advanced React and Redux**, [udemy](https://www.udemy.com/react-redux-tutorial/learn/v4/), _in progress_  
+### Danny
+**ES6 Javascript: The Complete Developer's Guide**, [udemy](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview), _in progress_
 
