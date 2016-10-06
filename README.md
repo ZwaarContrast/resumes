@@ -78,8 +78,8 @@ Techniques: _MongoDB, Express, Node, Javascript_
 Techniques: _HTML, (S)CSS, Javascript_
 
 ### 2013
-**Online Department**, website
-Url: [http://onlinedepartment.nl/](http://onlinedepartment.nl/) 
+**Online Department**, website  
+Url: [http://onlinedepartment.nl/](http://onlinedepartment.nl/)   
 Techniques: _HTML, (S)CSS, Javascript_
 
 ## Relevant Work experience
