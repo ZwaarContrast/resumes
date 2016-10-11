@@ -1,6 +1,6 @@
 # Danny Hoek
 ## About
-//TODO
+Fulltime nerd at Zwaar Contrast, adventurer during the weekends. Together with my collegue Roy we aim to make the impossible possible and deliver high quality online products.
 ### Zwaar Contrast
 Zwaar Contrast is a development agency based in Den Haag, the Netherlands. We have a focus on Wordpress development, but we can also assist you with various other front-end and back-end development skills. 
 
@@ -43,9 +43,9 @@ Url: [http://longenenleven.nl/](http://longenenleven.nl/)
 Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Wordpress_
 
 **Kennisnet**, various projects  
-Url: [http://labs.edurep.nl/](Edurep Labs)  
+Url: [Edurep Labs](http://labs.edurep.nl/)  
 Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Google Spreadsheets_  
-Url: [https://ict-puzzel.kennisnet.nl/](ICT puzzel)  
+Url: [ICT puzzel](https://ict-puzzel.kennisnet.nl/)  
 Techniques: Canvas, Javascript, PIXI
 
 ### 2015
@@ -90,5 +90,5 @@ Techniques: _HTML, (S)CSS, Javascript_
 **Andreas College**, VWO, Natuur en Gezondheid _2001 – 2008_
 
 ## Relevant Courses  
-### Danny
+
 **ES6 Javascript: The Complete Developer's Guide**, [udemy](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview), _in progress_
