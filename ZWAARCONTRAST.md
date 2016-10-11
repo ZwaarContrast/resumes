@@ -48,9 +48,9 @@ Url: [http://longenenleven.nl/](http://longenenleven.nl/)
 Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Wordpress_
 
 **Kennisnet**, various projects  
-Url: [http://labs.edurep.nl/](Edurep Labs)  
+Url: [Edurep Labs](http://labs.edurep.nl/)  
 Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Google Spreadsheets_  
-Url:[https://ict-puzzel.kennisnet.nl/](ICT puzzel)  
+Url: [ICT puzzel](https://ict-puzzel.kennisnet.nl/)  
 Techniques: Canvas, Javascript, PIXI
 
 ### 2015
