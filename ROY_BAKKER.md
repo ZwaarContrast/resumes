@@ -99,5 +99,5 @@ Techniques: _HTML, (S)CSS, Javascript_
 **React.js Fundamentals**, [React.js Program](http://courses.reactjsprogram.com/p/reactjsfundamentals), _2016_  
 **ES6 Javascript: The Complete Developer's Guide**, [udemy](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview), _2016_   
 **Modern React with Redux**, [udemy](https://www.udemy.com/react-redux/learn/v4/overview), _2016_  
-**Advanced React and Redux**, [udemy](https://www.udemy.com/react-redux-tutorial/learn/v4/), _in progress_
+**Advanced React and Redux**, [udemy](https://www.udemy.com/react-redux-tutorial/learn/v4/), _in progress_  
 **JavaScript: Understanding the Weird Parts**, [udemy](https://www.udemy.com/understand-javascript/learn/v4/overview), _in progress_  
