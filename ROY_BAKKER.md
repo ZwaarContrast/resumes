@@ -8,7 +8,7 @@ I am a front-end developer with a focus on creating beautiful user interfaces. I
 Zwaar Contrast is a development agency based in Den Haag, the Netherlands. We have a focus on Wordpress development, but we can also assist you with various other front-end and back-end development skills. 
 
 ### Keywords
-HTML, (S)CSS, Javascript, PHP, Wordpress, jQuery, Node.js, Express, React, Redux, ES6, PIXI.js, MongoDB, Express, Grunt, Gulp, Webpack.
+HTML, (S)CSS, Javascript, PHP, Wordpress, jQuery, Node.js, Express, React, Redux, ECMAScript 6 (ES6/ES2015), PIXI.js, MongoDB, Express, Grunt, Gulp, Webpack.
 
 ### Address
 Caballerofabriek - Unit 17  
