@@ -48,6 +48,10 @@ Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Google Spreadsheets_
 Url: [ICT puzzel](https://ict-puzzel.kennisnet.nl/)  
 Techniques: Canvas, Javascript, PIXI
 
+**Internal**, various projects  
+Various projects to learn React and Redux  
+Techniques: React, Redux, ES6, Javascript, Express, Node.js  
+
 ### 2015
 
 **Dolfinarium**, responsive Wordpress website  
