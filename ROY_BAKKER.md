@@ -8,7 +8,7 @@ I am a front-end developer with a focus on creating beautiful user interfaces. I
 Zwaar Contrast is a development agency based in Den Haag, the Netherlands. We have a focus on Wordpress development, but we can also assist you with various other front-end and back-end development skills. 
 
 ### Keywords
-HTML, (S)CSS, Javascript, PHP, Wordpress, jQuery, Node.js, React, Redux, PIXI.js, MongoDB, Express, Grunt, Gulp, Webpack.
+HTML, (S)CSS, Javascript, PHP, Wordpress, jQuery, Node.js, Express, React, Redux, ES6, PIXI.js, MongoDB, Express, Grunt, Gulp, Webpack.
 
 ### Address
 Caballerofabriek - Unit 17  
@@ -51,6 +51,10 @@ Url: [Edurep Labs](http://labs.edurep.nl/)
 Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Google Spreadsheets_  
 Url: [ICT puzzel](https://ict-puzzel.kennisnet.nl/)  
 Techniques: Canvas, Javascript, PIXI
+
+**Internal**, various projects  
+Various projects to learn React and Redux  
+Techniques: React, Redux, ES6, Javascript, Express, Node.js  
 
 ### 2015
 
