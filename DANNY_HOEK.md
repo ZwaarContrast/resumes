@@ -2,7 +2,7 @@
 ## About
 Fulltime nerd at Zwaar Contrast, adventurer during the weekends. Together with my collegue Roy we aim to make the impossible possible and deliver high quality online products.
 ### Zwaar Contrast
-Zwaar Contrast is a development agency based in Den Haag, the Netherlands. We have a focus on Wordpress development, but we can also assist you with various other front-end and back-end development skills. 
+Zwaar Contrast is a development agency based in Rotterdam, the Netherlands. We have a focus on Wordpress development, but we can also assist you with various other front-end and back-end development skills. 
 
 ### Keywords
 HTML, (S)CSS, Javascript, PHP, Wordpress, jQuery, Node.js, React, Redux, ECMAScript 6 (ES6/ES2015), OpenLayers, Google Maps, Grunt, Gulp, Vagrant.
