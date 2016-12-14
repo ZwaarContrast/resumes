@@ -8,10 +8,10 @@ Zwaar Contrast is a development agency based in Rotterdam, the Netherlands. We h
 HTML, (S)CSS, Javascript, PHP, Wordpress, jQuery, Node.js, React, Redux, ECMAScript 6 (ES6/ES2015), OpenLayers, Google Maps, Grunt, Gulp, Vagrant.
 
 ### Address
-Caballerofabriek - Unit 17  
-Saturnusstraat 60  
-2516 AH Den Haag  
-The Netherlands
+Groot Handelsgebouw - E1.174.1  
+Stationsplein 45  
+3013AK Rotterdam  
+The Netherlands  
 ### Contact
 
 [danny@zwaarcontrast.nl](mailto:danny@zwaarcontrast.nl)  
