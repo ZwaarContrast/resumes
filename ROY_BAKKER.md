@@ -7,16 +7,21 @@ I am a front-end developer with a focus on creating beautiful user interfaces. I
 ### Keywords
 React, Redux, Graphql, Styled-components, Jest, HTML, (S)CSS, Javascript, Wordpress, jQuery, Node.js, ECMAScript 6 (ES6/ES2015), Grunt, Gulp, Webpack.
 
-### Address
+### Business address
 Groot Handelsgebouw - E1.174.1  
 Stationsplein 45  
 3013AK Rotterdam  
 The Netherlands  
+
 ### Contact
 
 [roy@zwaarcontrast.nl](mailto:roy@zwaarcontrast.nl)  
 [0031 6 4623 8281](tel:+31646238281)
 
+### Extra
+Date of birth: 16 november 1990
+Based in Rotterdam
+Fluent in both English and Dutch
 
 ## Experience
 
