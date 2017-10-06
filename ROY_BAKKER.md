@@ -19,9 +19,9 @@ The Netherlands
 [0031 6 4623 8281](tel:+31646238281)
 
 ### Extra
-Date of birth: 16 november 1990
-Based in Rotterdam
-Fluent in both English and Dutch
+Date of birth: 16 november 1990  
+Based in Rotterdam  
+Fluent in both English and Dutch  
 
 ## Experience
 
