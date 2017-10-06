@@ -2,13 +2,10 @@
 # Roy Bakker
 
 ## About
-I am a front-end developer with a focus on creating beautiful user interfaces. I'm currently developing my Javascript skills in the React and Redux frameworks.
-
-### Zwaar Contrast
-Zwaar Contrast is a development agency based in Rotterdam, the Netherlands. We have a focus on Wordpress development, but we can also assist you with various other front-end and back-end development skills. 
+I am a front-end developer with a focus on creating beautiful user interfaces. I love working with React, especially in combination with Redux for state-management and/or a GraphQL server.
 
 ### Keywords
-HTML, (S)CSS, Javascript, PHP, Wordpress, jQuery, Node.js, Express, React, Redux, ECMAScript 6 (ES6/ES2015), PIXI.js, MongoDB, Express, Grunt, Gulp, Webpack.
+React, Redux, Graphql, Styled-components, Jest, HTML, (S)CSS, Javascript, Wordpress, jQuery, Node.js, ECMAScript 6 (ES6/ES2015), Grunt, Gulp, Webpack.
 
 ### Address
 Groot Handelsgebouw - E1.174.1  
@@ -23,7 +20,19 @@ The Netherlands
 
 ## Experience
 
+### 20117
+**New10**, React application
+Started in october 2016 and launched in september of 2017 as a subsidary of ABN AMRO, New10 is platform for SME lending. I was responsible for the development of the React application.
+Techniques: _React, Redux, Graphql, Javasrcript, ES2017_
+
 ### 2016  
+**New10**, React application
+See above
+
+**Internal**, various projects  
+Various projects to learn React and Redux  
+Techniques: _React, Redux, ES6, Javascript, Express, Node.js_  
+
 **NEP, The Netherlands**, responsive Wordpress website  
 Front-end and back-end development  
 In cooperation with Level Level  
@@ -51,10 +60,6 @@ Url: [Edurep Labs](http://labs.edurep.nl/)
 Techniques: _HTML, CSS, Javascript, jQuery, SCSS, Google Spreadsheets_  
 Url: [ICT puzzel](https://ict-puzzel.kennisnet.nl/)  
 Techniques: Canvas, Javascript, PIXI
-
-**Internal**, various projects  
-Various projects to learn React and Redux  
-Techniques: React, Redux, ES6, Javascript, Express, Node.js  
 
 ### 2015
 
@@ -104,4 +109,4 @@ Techniques: _HTML, (S)CSS, Javascript_
 **React.js Fundamentals**, [React.js Program](http://courses.reactjsprogram.com/p/reactjsfundamentals), _2016_  
 **Modern React with Redux**, [udemy](https://www.udemy.com/react-redux/learn/v4/overview), _2016_  
 **Advanced React and Redux**, [udemy](https://www.udemy.com/react-redux-tutorial/learn/v4/), _2016_  
-**JavaScript: Understanding the Weird Parts**, [udemy](https://www.udemy.com/understand-javascript/learn/v4/overview), _in progress_  
+**JavaScript: Understanding the Weird Parts**, [udemy](https://www.udemy.com/understand-javascript/learn/v4/overview), _2016_  
