@@ -25,7 +25,7 @@ Fluent in both English and Dutch
 
 ## Experience
 
-### 20117
+### 2017
 **New10**, React application
 Started in october 2016 and launched in september of 2017 as a subsidary of ABN AMRO, New10 is platform for SME lending. I was responsible for the development of the React application.
 Techniques: _React, Redux, Graphql, Javasrcript, ES2017_
