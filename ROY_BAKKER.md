@@ -8,9 +8,8 @@ I am a front-end developer with a focus on creating beautiful user interfaces. I
 React, Redux, Graphql, Styled-components, Jest, HTML, (S)CSS, Javascript, Wordpress, jQuery, Node.js, ECMAScript 6 (ES6/ES2015), Grunt, Gulp, Webpack.
 
 ### Business address
-Groot Handelsgebouw - E1.174.1  
-Stationsplein 45  
-3013AK Rotterdam  
+Beukelsweg 40b    
+3022GJ Rotterdam  
 The Netherlands  
 
 ### Contact
@@ -25,13 +24,21 @@ Fluent in both English and Dutch
 
 ## Experience
 
-### 2017
+### 2018
+**BEEQUIP**, React application
+Started in february 2018 and set to be launched in september of 2018. I was responsible for the development of a React application which is used by vendors and brokers to apply for a lease.  
+Techniques: _React, Graphql, Javascript, ES2017, Jest, Flow_
+
 **New10**, React application
-Started in october 2016 and launched in september of 2017 as a subsidary of ABN AMRO, New10 is platform for SME lending. I was responsible for the development of the React application.
-Techniques: _React, Redux, Graphql, Javasrcript, ES2017_
+Started in october 2016 and launched in september of 2017 as a subsidary of ABN AMRO, New10 is platform for SME lending. I was responsible for the development of the React application.  
+Techniques: _React, Redux, Graphql, Javascript, ES2017, Jest_
+
+### 2017  
+**New10**, React application  
+See above
 
 ### 2016  
-**New10**, React application
+**New10**, React application  
 See above
 
 **Internal**, various projects  
@@ -92,6 +99,7 @@ Techniques: _HTML, (S)CSS, Javascript_
 
 ### 2013
 **Online Department**, website  
+Won Site of the Day on AWWWards, now offline.
 Url: [http://onlinedepartment.nl/](http://onlinedepartment.nl/)   
 Techniques: _HTML, (S)CSS, Javascript_
 
