@@ -2,7 +2,7 @@
 # Roy Bakker
 
 ## About
-I am a front-end developer with a focus on creating beautiful user interfaces. I love working with React, especially in combination with Redux for state-management and/or a GraphQL server.
+I am a front-end developer with a focus on creating beautiful user interfaces. I love working with React, especially in combination with a GraphQL server. I'm used to working in agile environments and I have a getting-things-done mentality.
 
 ### Keywords
 React, Redux, Graphql, Styled-components, Jest, HTML, (S)CSS, Javascript, Wordpress, jQuery, Node.js, ECMAScript 6 (ES6/ES2015), Grunt, Gulp, Webpack.
