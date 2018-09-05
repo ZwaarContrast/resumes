@@ -1,17 +1,15 @@
 # Danny Hoek
 ## About
 Fulltime nerd at Zwaar Contrast, adventurer during the weekends. Together with my collegue Roy we aim to make the impossible possible and deliver high quality online products.
-### Zwaar Contrast
-Zwaar Contrast is a development agency based in Rotterdam, the Netherlands. We have a focus on Wordpress development, but we can also assist you with various other front-end and back-end development skills. 
 
 ### Keywords
-HTML, (S)CSS, Javascript, PHP, Wordpress, jQuery, Node.js, React, Redux, ECMAScript 6 (ES6/ES2015), OpenLayers, Google Maps, Grunt, Gulp, Vagrant.
+Javascript, Node.js, GraphQL, HTML, (S)CSS, Javascript, PHP, Wordpress, jQuery, ECMAScript 6 (ES6/ES2015), OpenLayers, Google Maps, Grunt, Gulp.
 
-### Address
-Groot Handelsgebouw - E1.174.1  
-Stationsplein 45  
-3013AK Rotterdam  
+### Business Address
+Beukelsweg 40b  
+3022GJ Rotterdam   
 The Netherlands  
+
 ### Contact
 
 [danny@zwaarcontrast.nl](mailto:danny@zwaarcontrast.nl)  
@@ -95,4 +93,4 @@ Techniques: _HTML, (S)CSS, Javascript_
 
 ## Relevant Courses  
 
-**ES6 Javascript: The Complete Developer's Guide**, [udemy](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview), _in progress_
+**ES6 Javascript: The Complete Developer's Guide**, [udemy](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview)
