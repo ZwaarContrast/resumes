@@ -118,6 +118,7 @@ Techniques: _HTML, (S)CSS, Javascript_
 
 
 ## Relevant Courses  
+**Introduction to Python**, [udacity](https://eu.udacity.com/course/introduction-to-python--ud1110), _in progress_  
 **ES6 Javascript: The Complete Developer's Guide**, [udemy](https://www.udemy.com/javascript-es6-tutorial/learn/v4/overview), _2016_   
 **React.js Fundamentals**, [React.js Program](http://courses.reactjsprogram.com/p/reactjsfundamentals), _2016_  
 **Modern React with Redux**, [udemy](https://www.udemy.com/react-redux/learn/v4/overview), _2016_  
