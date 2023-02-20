@@ -1,13 +1,15 @@
 # Danny Hoek
 ## About
-Fulltime nerd at Zwaar Contrast, adventurer during the weekends. Together with my collegue Roy we aim to make the impossible possible and deliver high quality online products.
+Hi! I'm Danny, a senior Software Engineer with over a decade of experience in the industry, specializing in NodeJS, TypeScript, Serverless and AWS Web Services. I am a problem-solver at heart, always thinking outside of the box to find creative and cost-effective ways to tackle complex challenges.
+
+When I am not working, I can be found enjoying the great outdoors, hiking in the dunes, fields, forests and mountains of this world. Besides being a nerd on the code-front, I am also a passionate amateur historian with a specific focus on investigating my hometown of Katwijk during the Second World War.
 
 ### Keywords
-Javascript, Node.js, GraphQL, HTML, (S)CSS, Javascript, PHP, Wordpress, jQuery, ECMAScript 6 (ES6/ES2015), OpenLayers, Google Maps, Grunt, Gulp.
+Javascript, Node.js, GraphQL, TypeScript, Serverless, AWS Web Services
 
 ### Business Address
-Beukelsweg 40b  
-3022GJ Rotterdam   
+Tolhuisstraat 10  
+2223GC Katwijk   
 The Netherlands  
 
 ### Contact
@@ -19,7 +21,7 @@ The Netherlands
 
 ### 2016 - 2023
 
-**New10**, Node.js  
+**New10**, Microservices architecture
 Started in october 2016 and launched in september of 2017 as a subsidary of ABN AMRO, New10 is a platform for SME lending. As one of the founding developers, I was part of a team of innovators that helped revolutionize the world of fintech. We developed a serverless landscape of microservices that transformed the way small and medium-sized businesses in the Netherlands access loans for growth.
 Techniques: _Javascript, ES2017, Jest, GraphQL, Node.js, AWS Web Services, TypeScript, Serverless_
 
