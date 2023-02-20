@@ -17,19 +17,13 @@ The Netherlands
 
 ## Experience
 
-### 2018
+### 2016 - 2023
 
-**New10**, Node.js middleware  
-Started in october 2016 and launched in september of 2017 as a subsidary of ABN AMRO, New10 is platform for SME lending. I was responsible for the development of the middleware between a React front-end and a Java back-end.
-Techniques: _Javascript, ES2017, Jest, Node.js, AWS_
-
-### 2017  
-**New10**, Node.js middleware  
-See above
+**New10**, Node.js  
+Started in october 2016 and launched in september of 2017 as a subsidary of ABN AMRO, New10 is a platform for SME lending. As one of the founding developers, I was part of a team of innovators that helped revolutionize the world of fintech. We developed a serverless landscape of microservices that transformed the way small and medium-sized businesses in the Netherlands access loans for growth.
+Techniques: _Javascript, ES2017, Jest, GraphQL, Node.js, AWS Web Services, TypeScript, Serverless_
 
 ### 2016  
-**New10**, Node.js middleware  
-See above
 
 **NEP, The Netherlands**, responsive Wordpress website  
 Front-end and back-end development  
